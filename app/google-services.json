@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1075324540251",
+    "firebase_url": "https://appppp-b106e.firebaseio.com",
+    "project_id": "appppp-b106e",
+    "storage_bucket": "appppp-b106e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075324540251:android:c970878ef21cbdfd",
+        "android_client_info": {
+          "package_name": "com.example.harsha.firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075324540251-qd5npf4ot9p4sbv2k2utvlenuvg12v9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN9aFFihhMrTcCgsxi2WgjMQr-v4uqSFk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075324540251:android:6359bf1810634347",
+        "android_client_info": {
+          "package_name": "com.example.harsha.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075324540251-qd5npf4ot9p4sbv2k2utvlenuvg12v9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN9aFFihhMrTcCgsxi2WgjMQr-v4uqSFk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
